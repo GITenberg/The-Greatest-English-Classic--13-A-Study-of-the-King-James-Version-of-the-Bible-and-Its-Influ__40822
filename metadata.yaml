@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '667'
     url: http://www.gutenberg.org/2009/agents/667
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40822#The-Greatest-English-Classic--13-A-Study-of-the-King-James-Version-of-the-Bible-and-Its-Influ_
 gutenberg_issued: '2012-09-21'
 gutenberg_type: Text
 identifiers:
